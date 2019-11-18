@@ -1,4 +1,4 @@
 ci:
   hide:
-    -  buildkite/kubernetes-deploy-gem-nightly
+    -  buildkite/krane-gem-nightly
 
